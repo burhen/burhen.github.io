@@ -5,7 +5,7 @@ body {
 }
 
 input {
-  width: 50vw;
+  width: 30vw;
   padding: 10px;
   font-size: 32px;
   margin-top: -3px;
@@ -14,7 +14,7 @@ input {
   text-align: center;
   position: fixed;
   top: 0px;
-  left: 25vw;
+  left: 35vw;
   border-bottom-left-radius: 15px;
   border-bottom-right-radius: 15px;
   outline: none;
