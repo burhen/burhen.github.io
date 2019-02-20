@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  overflow: hidden;
+  background: #1f1716;
+}
+
+input {
+  width: 50vw;
+  padding: 10px;
+  font-size: 32px;
+  margin-top: -3px;
+  background: rgba(255,255,255,0.1);
+  border: 3px solid rgba(255,255,255,0.12);
+  text-align: center;
+  position: fixed;
+  top: 0px;
+  left: 25vw;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+  outline: none;
+}
+
+#c {
+  cursor: none;
+}
