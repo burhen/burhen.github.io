@@ -15,8 +15,8 @@ input {
   position: fixed;
   top: 0px;
   left: 35vw;
-  border-bottom-left-radius: 15px;
-  border-bottom-right-radius: 15px;
+  border-bottom-left-radius: 35px;
+  border-bottom-right-radius: 35px;
   outline: none;
 }
 
